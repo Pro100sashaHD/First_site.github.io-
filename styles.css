@@ -1,0 +1,28 @@
+h1
+{
+	text-align: center;
+}
+body
+{
+    background-color: #66CDAA;
+}
+p
+{
+	font-size: 125%;
+}
+img
+{
+    border-radius: 20px;
+    border-color: #2d545e;
+    border-width: large;
+    border-style: solid;
+}
+a
+{
+	font-size: 125%;
+	font-style: italic;
+}
+ul 
+{
+list-style-type: none;
+}
